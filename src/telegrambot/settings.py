@@ -82,7 +82,7 @@ WSGI_APPLICATION = "telegrambot.wsgi.application"
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql_psycopg2",
-        "NAME": 'BEK1',
+        "NAME": 'BEK',
         "USER": 'usupportuser',
         "PASSWORD": 'cheese_901',
         "HOST": 'localhost',
